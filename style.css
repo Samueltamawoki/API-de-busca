@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif;
     background: linear-gradient(135deg, #0ea5e9, #9333ea);
     color: #fff;
-    min-height: 450px;
+    min-height: 1000px;
   }
   
   /* ===== Header ===== */
@@ -67,3 +67,4 @@ body {
     background:#22c55e;
   }
   #erro { color: #ff5a5f; margin: 10px 0; font-weight: bold; }
+
